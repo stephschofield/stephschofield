@@ -57,12 +57,3 @@ I ship AI applications that actually solve problems. 25+ enterprise solutions de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephschofield&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-##  Let's Connect
-
-I build AI solutions that solve real problems. If you're working on something interesting—or hiring for teams that ship—let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanieschofield/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stephschofield)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steph.schofield@outlook.com)
