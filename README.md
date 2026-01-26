@@ -59,16 +59,7 @@ I ship AI applications that actually solve problems. 25+ enterprise solutions de
 
 ---
 
-## 🚀 Recent Wins
-
-- **Pull Shark x2** — Reviews that actually make code better
-- **Pair Extraordinaire** — Shipped with 300+ devs in All The Vibes community
-- **130%+ utilization** — Top performer FY25 & FY26
-- **Contributor** to [github/awesome-copilot](https://github.com/github/awesome-copilot)
-
----
-
-## 💬 Let's Connect
+##  Let's Connect
 
 I build AI solutions that solve real problems. If you're working on something interesting—or hiring for teams that ship—let's talk.
 
