@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hey, I'm Stephanie 👋
 
-<!--
-**stephschofield/stephschofield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Product Manager @ Microsoft** | Building AI-powered enterprise solutions | Founder of [All The Vibes](https://github.com/All-The-Vibes)
 
-Here are some ideas to get you started:
+I ship AI applications that actually solve problems. 25+ enterprise solutions delivered. $50M+ in Azure consumption generated. 923 contributions this year because talk is cheap—code ships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I'm Building
+
+| Project | What It Does |
+|---------|--------------|
+| [**Beth**](https://github.com/stephschofield/beth) | Ruthless AI agent orchestrator that runs dev teams like a boss. Multi-agent workflows, skill-based routing, zero bs. |
+| [**v0 Chat Mode**](https://github.com/All-The-Vibes/v0-chat-mode) | Build Next.js apps without leaving your editor. No API calls, no copy-paste, just flow. |
+| [**Mayor West**](https://github.com/shyamsridhar123/MayorWest) | Security-first autonomous coding. Issue-to-merge automation with 4-layer security architecture. |
+| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time biometric art using hand/face tracking. WebGL 2, MediaPipe, TypeScript. |
+| [**FitMix**](https://github.com/stephschofield/fitmix) | AI-powered workout playlist builder with Spotify integration and precise timing controls. |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**AI & Cloud**  
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Tools**  
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stephschofield&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephschofield&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Recent Wins
+
+- **Pull Shark x2** — Reviews that actually make code better
+- **Pair Extraordinaire** — Shipped with 300+ devs in All The Vibes community
+- **130%+ utilization** — Top performer FY25 & FY26
+- **Contributor** to [github/awesome-copilot](https://github.com/github/awesome-copilot)
+
+---
+
+## 💬 Let's Connect
+
+I build AI solutions that solve real problems. If you're working on something interesting—or hiring for teams that ship—let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanieschofield/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stephschofield)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steph.schofield@outlook.com)
+
+---
+
+<p align="center">
+  <i>"They broke my wings and forgot I had claws."</i>
+</p>
