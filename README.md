@@ -1,6 +1,6 @@
 # Hey, I'm Stephanie 👋
 
-**Technical Product Manager @ Microsoft** | Building AI-powered enterprise solutions | Founder of [All The Vibes](https://github.com/All-The-Vibes)
+**Technical Product Manager @ Microsoft** | Building AI-powered enterprise solutions | Leader of [All The Vibes](https://github.com/All-The-Vibes)
 
 I ship AI applications that actually solve problems. 25+ enterprise solutions delivered. 923 contributions this year because talk is cheap—code ships.
 
