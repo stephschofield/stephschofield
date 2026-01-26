@@ -8,7 +8,7 @@
 
 | Project | What It Does |
 |---------|--------------|
-| [**All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community hub for AI-assisted development. Futuristic IDE design built with v0 and deployed on Vercel. |
+| [**All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community hub for 300+ members sharing AI-assisted development tools, frameworks, and rapid engineering methodology. |
 | [**Beth**](https://github.com/stephschofield/beth) | Ruthless AI agent orchestrator that runs dev teams like a boss. Multi-agent workflows, skill-based routing, zero bs. |
 | [**v0 Chat Mode**](https://github.com/All-The-Vibes/v0-chat-mode) | Build Next.js apps without leaving your editor. No API calls, no copy-paste, just flow. |
 | [**Mayor West**](https://github.com/shyamsridhar123/MayorWest) | Security-first autonomous coding. Issue-to-merge automation with 4-layer security architecture. |
