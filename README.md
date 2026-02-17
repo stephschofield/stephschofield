@@ -1,16 +1,33 @@
 # Hey, I'm Stephanie 👋
 
-**Forward Deployed Engineer @ Microsoft** | Building AI-powered enterprise solutions | Leader of [All The Vibes](https://github.com/All-The-Vibes)
+**Forward Deployed Engineer @ Microsoft** | Building multi-agent AI systems for enterprise | Leader of [All The Vibes](https://github.com/All-The-Vibes) (350+ members)
 
 ---
 
 ## 🔥 What I'm Building
 
+### Multi-Agent AI Platforms
+
 | Project | What It Does |
-|---------|--------------|
-| [**All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community hub for 350+ members sharing AI-assisted development tools, frameworks, and rapid engineering methodology. |
+| ------- | ------------ |
+| [**MCP Marketplace**](https://github.com/stephschofield/mcp-marketplace-maf) | POC multi-agent AI platform for professional services—art of the possible with Microsoft Agent Framework. |
+| [**Yellowstone**](https://github.com/stephschofield/yellowstone) | AI-driven multi-agent automation engine managing task completion via user input. Powered by Microsoft Agent Framework. |
 | [**Beth**](https://github.com/stephschofield/beth) | Ruthless AI agent orchestrator that runs dev teams like a boss. Multi-agent workflows, skill-based routing, zero bs. |
-| [**v0 Chat Mode**](https://github.com/All-The-Vibes/v0-chat-mode) | Build Next.js apps without leaving your editor. No API calls, no copy-paste, just flow. |
+| [**AgentSmith CLI**](https://github.com/stephschofield/agentsmith-cli) | Transform any GitHub repo into autonomous AI agents using Copilot SDK. Extract skills, generate hierarchical agents. |
+
+### Enterprise Data & Analytics
+
+| Project | What It Does |
+| ------- | ------------ |
+| [**Contoso Data Products**](https://github.com/stephschofield/contoso-data-products-page) | Web platform for discovering, searching, and securely accessing university datasets, dashboards, and analytics. |
+| [**Supervisor Dashboard**](https://github.com/stephschofield/contoso-supervisor-agent-dashboard) | Call center analytics—agent performance, sentiment analysis, interaction quality metrics. |
+| [**Query Engine**](https://github.com/stephschofield/contoso-query-engine) | No-code analytics studio for building custom reports on call behavior, cross-talk, and sentiment. |
+
+### Developer Tools & Creative Projects
+
+| Project | What It Does |
+| ------- | ------------ |
+| [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor. No API calls, no copy-paste, just flow. |
 | [**Mayor West**](https://github.com/shyamsridhar123/MayorWest) | Security-first autonomous coding. Issue-to-merge automation with 4-layer security architecture. |
 | [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time biometric art using hand/face tracking. WebGL 2, MediaPipe, TypeScript. |
 | [**FitMix**](https://github.com/stephschofield/fitmix) | AI-powered workout playlist builder with Spotify integration and precise timing controls. |
