@@ -1,6 +1,6 @@
 # Hey, I'm Stephanie 👋
 
-**Technical Product Manager @ Microsoft** | Building AI-powered enterprise solutions | Leader of [All The Vibes](https://github.com/All-The-Vibes)
+**Forward Deployed Engineer @ Microsoft** | Building AI-powered enterprise solutions | Leader of [All The Vibes](https://github.com/All-The-Vibes)
 
 ---
 
