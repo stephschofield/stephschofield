@@ -1,6 +1,6 @@
 # Hey, I'm Stephanie 👋
 
-**Forward Deployed Engineer @ Microsoft** | Building multi-agent AI systems for enterprise | Leader of [All The Vibes](https://github.com/All-The-Vibes) (350+ members)
+**Forward Deployed Engineer @ Microsoft** | Building multi-agent AI systems for enterprise | Leader for [All The Vibes](https://github.com/All-The-Vibes) (350+ members)
 
 ---
 
