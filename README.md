@@ -2,6 +2,7 @@
 
 **Forward Deployed Engineer @ Microsoft** | Dallas, TX |
 Building multi-agent AI systems for enterprise. | Leader at [All The Vibes](https://github.com/All-The-Vibes) (650+ members).
+
 ---
 
 ## 🔥 What I'm Building
