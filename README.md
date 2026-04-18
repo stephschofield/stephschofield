@@ -4,7 +4,20 @@
 
 ---
 
-## 🔥 What I'm Building
+## 🎯 Currently focused on
+
+| Project | What It Does |
+| ------- | ------------ |
+| [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) `⭐ 32` | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
+| [**Beth**](https://github.com/stephschofield/beth) | Ruthless, hyper-competent agent orchestrator that runs your dev team like a boss. Routes work to specialized agents, files issues via beads, tracks work with Backlog.md. TypeScript. |
+| [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor — no API calls, no copy-paste from web UIs, just pure development flow in your existing codebase. |
+| [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). TypeScript. |
+| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time particle visualization that transforms hand and face tracking into biometric art. Next.js 15, React 19, TypeScript, WebGL 2. |
+| [**AlltheVibes WildHackathon**](https://github.com/stephschofield/AlltheVibes-WildHackathon) | Hackathon project — Python. |
+
+---
+
+## 🔥 More of what I'm building
 
 ### Agent Platforms & Orchestration
 
@@ -13,7 +26,6 @@
 | [**MCP Marketplace**](https://github.com/stephschofield/mcp-marketplace) | Enterprise platform for AI agents, MCP servers, and skills orchestration & governance. |
 | [**Yellowstone**](https://github.com/stephschofield/yellowstone) | Multi-agent custom automation engine powered by Microsoft Agent Framework, Azure Foundry, and Cosmos DB. |
 | [**ProServ Demo**](https://github.com/stephschofield/proserv-demo) | Multi-agent AI platform for professional services — art of the possible with Microsoft Agent Framework. |
-| [**Beth**](https://github.com/stephschofield/beth) | Agent orchestrator that routes work to specialized agents, files issues, and tracks work with beads & Backlog.md. |
 | [**AgentSmith CLI**](https://github.com/stephschofield/agentsmith-cli) | Transforms any GitHub repo into autonomous AI agents — extracts skills, generates hierarchical agents, detects tools. |
 | [**Ruflo**](https://github.com/stephschofield/ruflo) | Multi-agent swarm platform for Claude with RAG and native Claude Code / Codex integration. |
 
@@ -30,10 +42,8 @@
 
 | Project | What It Does |
 | ------- | ------------ |
-| [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor. No API calls, no copy-paste, just flow. |
 | [**Pied Piper**](https://github.com/stephschofield/piedpiper) | GitHub is for humans, AgentHub is for agents — Go-based scaffolding for autonomous research workflows. |
 | [**MultiAgent-CUA**](https://github.com/stephschofield/MultiAgent-CUA) | Vision-driven automation showcase combining CUA, Playwright, and LangChain. |
-| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time biometric art using hand/face tracking. Next.js 15, React 19, WebGL 2, MediaPipe. |
 | [**FitMix**](https://github.com/stephschofield/fitmix) | AI-powered workout playlist builder with Spotify integration and precise timing controls. |
 
 ---
