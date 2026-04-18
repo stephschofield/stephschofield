@@ -10,26 +10,30 @@
 
 | Project | What It Does |
 | ------- | ------------ |
-| [**MCP Marketplace**](https://github.com/stephschofield/mcp-marketplace-maf) | POC multi-agent AI platform for professional services—art of the possible with Microsoft Agent Framework. |
-| [**Yellowstone**](https://github.com/stephschofield/yellowstone) | AI-driven multi-agent automation engine managing task completion via user input. Powered by Microsoft Agent Framework. |
-| [**Beth**](https://github.com/stephschofield/beth) | Ruthless AI agent orchestrator that runs dev teams like a boss. Multi-agent workflows, skill-based routing, zero bs. |
-| [**AgentSmith CLI**](https://github.com/stephschofield/agentsmith-cli) | Transform any GitHub repo into autonomous AI agents using Copilot SDK. Extract skills, generate hierarchical agents. |
+| [**MCP Marketplace**](https://github.com/stephschofield/mcp-marketplace) | Enterprise platform for AI agents, MCP servers, and skills orchestration & governance. |
+| [**Yellowstone**](https://github.com/stephschofield/yellowstone) | Multi-agent custom automation engine powered by Microsoft Agent Framework, Azure Foundry, and Cosmos DB. |
+| [**ProServ Demo**](https://github.com/stephschofield/proserv-demo) | Multi-agent AI platform for professional services — art of the possible with Microsoft Agent Framework. |
+| [**Beth**](https://github.com/stephschofield/beth) | Ruthless AI agent orchestrator that routes work to specialized agents, files issues, and tracks work with beads & Backlog.md. |
+| [**AgentSmith CLI**](https://github.com/stephschofield/agentsmith-cli) | Transforms any GitHub repo into autonomous AI agents using Copilot SDK — extracts skills, generates hierarchical agents, detects tools. |
+| [**Ruflo**](https://github.com/stephschofield/ruflo) | Agent orchestration platform for Claude — deploy intelligent multi-agent swarms with RAG and native Claude Code / Codex integration. |
 
 ### Enterprise Data & Analytics
 
 | Project | What It Does |
 | ------- | ------------ |
 | [**Contoso Data Products**](https://github.com/stephschofield/contoso-data-products-page) | Web platform for discovering, searching, and securely accessing university datasets, dashboards, and analytics. |
-| [**Supervisor Dashboard**](https://github.com/stephschofield/contoso-supervisor-agent-dashboard) | Call center analytics—agent performance, sentiment analysis, interaction quality metrics. |
+| [**Supervisor Dashboard**](https://github.com/stephschofield/contoso-supervisor-agent-dashboard) | Call center analytics — agent performance, sentiment analysis, interaction quality metrics. |
 | [**Query Engine**](https://github.com/stephschofield/contoso-query-engine) | No-code analytics studio for building custom reports on call behavior, cross-talk, and sentiment. |
+| [**Realtime Agent Assist**](https://github.com/stephschofield/Realtime-AgentAssist-AOAI) | Realtime agent assistance powered by Azure OpenAI. |
 
 ### Developer Tools & Creative Projects
 
 | Project | What It Does |
 | ------- | ------------ |
 | [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor. No API calls, no copy-paste, just flow. |
-| [**Mayor West**](https://github.com/shyamsridhar123/MayorWest) | Security-first autonomous coding. Issue-to-merge automation with 4-layer security architecture. |
-| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time biometric art using hand/face tracking. WebGL 2, MediaPipe, TypeScript. |
+| [**Pied Piper**](https://github.com/stephschofield/piedpiper) | GitHub is for humans, AgentHub is for agents — an exploratory Go project for autonomous research workflows. |
+| [**MultiAgent-CUA**](https://github.com/stephschofield/MultiAgent-CUA) | Vision-driven automation showcase combining CUA, Playwright, and LangChain. |
+| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time biometric art using hand/face tracking. Next.js 15, React 19, WebGL 2, MediaPipe. |
 | [**FitMix**](https://github.com/stephschofield/fitmix) | AI-powered workout playlist builder with Spotify integration and precise timing controls. |
 
 ---
@@ -40,6 +44,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**  
@@ -49,15 +54,24 @@
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**AI & Cloud**  
-![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**AI & Agents**  
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Cloud & Data**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-3F51B5?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Tools**  
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
