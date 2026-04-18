@@ -8,7 +8,7 @@
 
 | Project | What It Does |
 | ------- | ------------ |
-| [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) `⭐ 32` | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
+| [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
 | [**Beth**](https://github.com/stephschofield/beth) | Ruthless, hyper-competent agent orchestrator that runs your dev team like a boss. Routes work to specialized agents, files issues via beads, tracks work with Backlog.md. TypeScript. |
 | [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor — no API calls, no copy-paste from web UIs, just pure development flow in your existing codebase. |
 | [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). TypeScript. |
