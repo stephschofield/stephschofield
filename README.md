@@ -1,12 +1,9 @@
 # Hey, I'm Stephanie 👋
 
-**Forward Deployed Engineer @ Microsoft** · Dallas, TX
-Building multi-agent AI systems for enterprise. I lead [All The Vibes](https://github.com/All-The-Vibes) (650+ members).
+**Forward Deployed Engineer @ Microsoft** · Dallas, TX ·
+Building multi-agent AI systems for enterprise. Leader at [All The Vibes](https://github.com/All-The-Vibes) (650+ members).
 
-🟢 **Currently:** shipping multi-agent POCs with Microsoft Agent Framework + MCP · 💬 [All The Vibes](https://github.com/All-The-Vibes) · 🔗 [LinkedIn](https://www.linkedin.com/in/stephanieschofield/)
-
-> I think the next generation of enterprise software is *agents-as-features*, not features-with-agents. Most of what I build is an experiment in that direction — from orchestration runtimes to agent-native developer tools.
-
+💬 [All The Vibes](https://github.com/All-The-Vibes) · 🔗 [LinkedIn](https://www.linkedin.com/in/stephanieschofield/)
 ---
 
 ## 🔥 What I'm Building
