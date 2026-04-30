@@ -9,11 +9,11 @@
 | Project | What It Does |
 | ------- | ------------ |
 | [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
-| [**Beth**](https://github.com/stephschofield/beth) | Ruthless, hyper-competent agent orchestrator that runs your dev team like a boss. Routes work to specialized agents, files issues via beads, tracks work with Backlog.md. TypeScript. |
-| [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor — no API calls, no copy-paste from web UIs, just pure development flow in your existing codebase. |
+| [**shai-hulud**](https://github.com/All-The-Vibes/shai-hulud) | Opinionated, structured vibe-coding starter kit for Claude Code & GitHub Copilot — AI agents, shared context, slash commands. |
+| [**bs-buster**](https://github.com/All-The-Vibes/bs-buster) | CLI for evaluating AI agent harnesses across GitHub Copilot, Claude Code, Codex, and custom tools. |
+| [**Agent-Harness**](https://github.com/All-The-Vibes/Agent-Harness) | Why the orchestration layer — not the model — determines agent success. White paper, five-pillar framework, and prompt guides. |
 | [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). TypeScript. |
-| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time particle visualization that transforms hand and face tracking into biometric art. Next.js 15, React 19, TypeScript, WebGL 2. |
-| [**AlltheVibes WildHackathon**](https://github.com/stephschofield/AlltheVibes-WildHackathon) | Hackathon project — Python. |
+| [**Contoso Data Products**](https://github.com/stephschofield/contoso-data-products-page) | Web platform for discovering, searching, and securely accessing university datasets, dashboards, and analytics. |
 
 ---
 
@@ -23,6 +23,8 @@
 
 | Project | What It Does |
 | ------- | ------------ |
+| [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor — no API calls, no copy-paste from web UIs, just pure development flow in your existing codebase. |
+| [**Skills Catalog**](https://github.com/All-The-Vibes/skills-catalog) | Reusable Agent Skills for Claude Code, GitHub Copilot, Cursor, and other AI coding assistants. |
 | [**MCP Marketplace**](https://github.com/stephschofield/mcp-marketplace) | Enterprise platform for AI agents, MCP servers, and skills orchestration & governance. |
 | [**Yellowstone**](https://github.com/stephschofield/yellowstone) | Multi-agent custom automation engine powered by Microsoft Agent Framework, Azure Foundry, and Cosmos DB. |
 | [**ProServ Demo**](https://github.com/stephschofield/proserv-demo) | Multi-agent AI platform for professional services — art of the possible with Microsoft Agent Framework. |
@@ -33,7 +35,6 @@
 
 | Project | What It Does |
 | ------- | ------------ |
-| [**Contoso Data Products**](https://github.com/stephschofield/contoso-data-products-page) | Web platform for discovering, searching, and securely accessing university datasets, dashboards, and analytics. |
 | [**Supervisor Dashboard**](https://github.com/stephschofield/contoso-supervisor-agent-dashboard) | Call center analytics — agent performance, sentiment analysis, interaction quality metrics. |
 | [**Query Engine**](https://github.com/stephschofield/contoso-query-engine) | No-code analytics studio for building custom reports on call behavior, cross-talk, and sentiment. |
 | [**Realtime Agent Assist**](https://github.com/stephschofield/Realtime-AgentAssist-AOAI) | Realtime agent assistance powered by Azure OpenAI. |
@@ -42,9 +43,11 @@
 
 | Project | What It Does |
 | ------- | ------------ |
+| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time particle visualization that transforms hand and face tracking into biometric art. Next.js 15, React 19, TypeScript, WebGL 2. |
 | [**Pied Piper**](https://github.com/stephschofield/piedpiper) | GitHub is for humans, AgentHub is for agents — Go-based scaffolding for autonomous research workflows. |
 | [**MultiAgent-CUA**](https://github.com/stephschofield/MultiAgent-CUA) | Vision-driven automation showcase combining CUA, Playwright, and LangChain. |
 | [**FitMix**](https://github.com/stephschofield/fitmix) | AI-powered workout playlist builder with Spotify integration and precise timing controls. |
+| [**ATV Platform**](https://github.com/All-The-Vibes/atv-platform) | All The Vibes Hackathon (Feb 2026) project. |
 
 ---
 
@@ -52,7 +55,7 @@
 
 | | |
 | - | - |
-| **Agents** | Microsoft Agent Framework · Semantic Kernel · MCP · Claude Code · OpenAI · LangChain |
+| **Agents** | Microsoft Agent Framework · Semantic Kernel · MCP · Claude Code · GitHub Copilot · OpenAI · LangChain |
 | **Languages** | TypeScript · Python · C# · Go · SQL |
 | **Frontend** | Next.js · React · Tailwind · shadcn/ui · Framer Motion |
 | **Cloud & Data** | Azure AI Foundry · Cosmos DB · Docker |
