@@ -9,9 +9,7 @@
 | Project | What It Does |
 | ------- | ------------ |
 | [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
-| [**shai-hulud**](https://github.com/All-The-Vibes/shai-hulud) | Opinionated, structured vibe-coding starter kit for Claude Code & GitHub Copilot — AI agents, shared context, slash commands. |
 | [**bs-buster**](https://github.com/All-The-Vibes/bs-buster) | CLI for evaluating AI agent harnesses across GitHub Copilot, Claude Code, Codex, and custom tools. |
-| [**Agent-Harness**](https://github.com/All-The-Vibes/Agent-Harness) | Why the orchestration layer — not the model — determines agent success. White paper, five-pillar framework, and prompt guides. |
 | [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). TypeScript. |
 | [**Contoso Data Products**](https://github.com/stephschofield/contoso-data-products-page) | Web platform for discovering, searching, and securely accessing university datasets, dashboards, and analytics. |
 
@@ -24,7 +22,6 @@
 | Project | What It Does |
 | ------- | ------------ |
 | [**v0 Agent**](https://github.com/All-The-Vibes/v0-agent) | Build Next.js apps without leaving your editor — no API calls, no copy-paste from web UIs, just pure development flow in your existing codebase. |
-| [**Skills Catalog**](https://github.com/All-The-Vibes/skills-catalog) | Reusable Agent Skills for Claude Code, GitHub Copilot, Cursor, and other AI coding assistants. |
 | [**MCP Marketplace**](https://github.com/stephschofield/mcp-marketplace) | Enterprise platform for AI agents, MCP servers, and skills orchestration & governance. |
 | [**Yellowstone**](https://github.com/stephschofield/yellowstone) | Multi-agent custom automation engine powered by Microsoft Agent Framework, Azure Foundry, and Cosmos DB. |
 | [**ProServ Demo**](https://github.com/stephschofield/proserv-demo) | Multi-agent AI platform for professional services — art of the possible with Microsoft Agent Framework. |
