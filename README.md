@@ -9,9 +9,7 @@
 | Project | What It Does |
 | ------- | ------------ |
 | [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
-| [**bs-buster**](https://github.com/All-The-Vibes/bs-buster) | CLI for evaluating AI agent harnesses across GitHub Copilot, Claude Code, Codex, and custom tools. |
 | [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). TypeScript. |
-| [**Particles MediaPipe**](https://github.com/stephschofield/particles-media-pipe-ghcp) | Real-time particle visualization that transforms hand and face tracking into biometric art. Next.js 15, React 19, TypeScript, WebGL 2. |
 ---
 
 ## 🛠️ Stack
