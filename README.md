@@ -1,6 +1,6 @@
 # Hey, I'm Stephanie 👋
 
-**Forward Deployed Engineer @ Microsoft** | Building multi-agent AI systems for enterprise. | Lead at [All The Vibes](https://github.com/All-The-Vibes)
+**Forward Deployed Engineer @ Microsoft** | Building multi-agent AI systems for enterprise. | Community Lead at [All The Vibes](https://github.com/All-The-Vibes)
 
 ---
 
@@ -16,11 +16,10 @@
 
 | | |
 | - | - |
-| **Agents** | Microsoft Agent Framework · Semantic Kernel · MCP · Claude Code · GitHub Copilot · OpenAI · LangChain |
-| **Languages** | TypeScript · Python · C# · Go · SQL |
-| **Frontend** | Next.js · React · Tailwind · shadcn/ui · Framer Motion |
+| **Frameworks** | Microsoft Agent Framework · LangChain · Semantic Kernel · LangChain |
+| **Languages** | TypeScript · Python · C · C# · Go · SQL |
+| **Frontend** | Next.js · React · Tailwind · shadcn/ui · Bun · Framer Motion |
 | **Cloud & Data** | Azure AI Foundry · Cosmos DB · Docker |
-| **Tools** | GitHub Copilot · v0 · Vercel · Bun · Playwright |
 
 ---
 
