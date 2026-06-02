@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Currently focused on
-
+|  |  |
 | ------- | ------------ |
 | [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
 | [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). |
@@ -13,6 +13,7 @@
 
 ## 🛠️ Stack
 
+|  |  |
 | - | - |
 | **Frameworks** | Microsoft Agent Framework · LangChain · Semantic Kernel · LangChain |
 | **Languages** | TypeScript · Python · C · C# · Go · SQL |
