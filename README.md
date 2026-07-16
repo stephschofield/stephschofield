@@ -7,6 +7,7 @@
 ## 🎯 Currently focused on
 |  |  |
 | ------- | ------------ |
+| [**ATV-bench**](https://github.com/All-The-Vibes/ATV-bench) | Benchmark your harness with head-to-head arena matches, ranked by ELO. |
 | [**ATV-StarterKit**](https://github.com/All-The-Vibes/ATV-StarterKit) | One-click installer that scaffolds a complete GitHub Copilot agentic coding environment into any project. Go. |
 | [**v0 All The Vibes Site**](https://github.com/stephschofield/v0-all-the-vibes-site) | Community site for All The Vibes — [v0-atv-site.vercel.app](https://v0-atv-site.vercel.app). |
 ---
