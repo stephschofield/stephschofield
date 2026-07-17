@@ -24,10 +24,10 @@
 
 ---
 
-## 🤝 Open to collaborating on
+## Let's chat about
 
 - Multi-agent evals and reliability benchmarks
-- MCP server ergonomics and agent-native UX patterns
-- Anything that makes enterprise agent systems easier to ship and trust
+- Developer tools and self-optimizing harnesses
+- Silo, Paradise, Foundation, GOT 🤝
 
 Find me in [All The Vibes](https://github.com/All-The-Vibes) or on [LinkedIn](https://www.linkedin.com/in/stephanieschofield/).
