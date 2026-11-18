@@ -2,7 +2,7 @@
 
 > *"I don't have time to explain things twice. Read this."*
 
-Last updated: <!-- Update this date when making changes -->
+Last updated: November 18, 2026
 
 ---
 
@@ -10,6 +10,8 @@ Last updated: <!-- Update this date when making changes -->
 
 | Task | Notes |
 |------|-------|
+| Wittier profile greeting | Updated the speech bubble, alt text, and text-only profile with an AI-agent performance-review joke |
+| Animated profile README | Personalized pixel portrait and wave/type animation; original content retained; light/dark/mobile variants, semantic headings, text fallback, and eight tests |
 | Create GitHub Profile README | Engaging profile for devs and recruiters |
 | Initial setup | Beth agent system installed |
 
