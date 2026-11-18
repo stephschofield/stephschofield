@@ -1,7 +1,7 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-phone.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Stephanie Schofield, waving in pixel art: Hey, I'm Stephanie! I build with humans + agents." width="100%">
+  <img src="assets/hero-light.svg" alt="Stephanie Schofield, waving in pixel art: I give AI agents jobs. Yes, they get performance reviews." width="100%">
 </picture>
 
 **Forward Deployed Engineer @ Microsoft** | Community Lead at [All The Vibes](https://github.com/All-The-Vibes)
@@ -35,6 +35,8 @@
 <summary>Text-only profile</summary>
 
 ### Hey, I'm Stephanie 👋
+
+I give AI agents jobs. Yes, they get performance reviews.
 
 **Forward Deployed Engineer @ Microsoft** | Community Lead at [All The Vibes](https://github.com/All-The-Vibes)
 

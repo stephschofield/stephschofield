@@ -10,7 +10,7 @@ from pixel import THEMES, Svg, cells_to_path, text_pixels, text_width
 ROOT = Path(__file__).resolve().parents[1]
 W, M = 846, 423
 NAME = "Stephanie Schofield"
-GREETING = "Hey, I'm Stephanie! I build with humans + agents."
+GREETING = "I give AI agents jobs. Yes, they get performance reviews."
 PROJECTS = [
     ("ecorp", "ECorp",
      "Your 24/7 software factory with all of your human and agent team mates in one digital office.",
